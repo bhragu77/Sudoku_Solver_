@@ -1,0 +1,17 @@
+.App{
+  min-height: 100vh;
+  background-color: rgb(25, 25, 105);
+}
+.NOSIZE{
+  display: flex;
+  flex-direction: column;
+  padding: 0 15px;
+  align-items: center;
+  justify-content: center;
+  font-size: x-large;
+  color: aqua;
+  text-shadow: 2px 2px 4px cyan, -2px -2px 4px black;
+}
+.NOSIZE img{
+  width: 250px;
+}
